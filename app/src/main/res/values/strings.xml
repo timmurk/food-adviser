@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Food Adviser</string>
+    <string name="title_activity_ingridients">IngridientsActivity</string>
+    <string name="add_ingridient_hint">Input ingridient name</string>
+</resources>
